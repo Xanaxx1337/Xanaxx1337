@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Software Programming.
 - 🌱 I’m currently studying Computer Engineering.
 - 💞️ I’m looking to expand my knownledge while sharing some projects.
-- 📫 Reach out to me on discord: xanaxx1337
+- 📫 Reach out to me on discord: xanaxxdev
 
 <!---
 Xanaxx1337/Xanaxx1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
